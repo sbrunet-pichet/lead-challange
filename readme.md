@@ -2,7 +2,7 @@ Kebab Challenge
 ===================
 
 
-Ce repositoriy se compose de plusieurs exercice permettant a un candidat de montrer l'entendu de ses connaissances en tant que lead technique. Les exercices sont à réaliser dans l'ordre. Le candidat devra forker se repository et proposer sa pull request qui permettra de valider le test. Seront jugés les points suivants :
+Ce repository se compose de plusieurs exercices permettant a un candidat de montrer l'etendu de ses connaissances en tant que lead technique. Les exercices sont à réaliser dans l'ordre. Le candidat devra forker ce repository et proposer sa pull request qui permettra de valider le test. Seront jugés les points suivants :
 
 - Pertinence des réponses
 - Connaissance du candidat sur les sujets traités
