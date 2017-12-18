@@ -34,7 +34,7 @@ Avant de me lancer dans mon projet, je vais avoir besoin d'un MCD. Ce schéma se
 
 ###### **Temps conseillé** : 1/2 heure
 
-Avant de commencer a développer mon application, je vais avoir besoin d'un environnement technique. Mon Architecte logiciel étant malade, il m'a indiqué l'ensemble des briques dont j'ai besoin mais n'a pas terminé le schéma pour me montrer les relations qu'auront les briques les unes avec les autres. Merci de finaliser le schéma d'une manière logique: https://go.gliffy.com/go/publish/12434293
+Avant de commencer a développer mon application, je vais avoir besoin d'un environnement technique. Mon Architecte logiciel étant malade, il m'a indiqué l'ensemble des briques dont j'ai besoin mais n'a pas terminé le schéma pour me montrer les relations qu'auront les briques les unes avec les autres. Merci de finaliser le schéma d'une manière logique: [Schéma Gliffy](schema_exemple_archi.gliffy)
 
 > **Note:**
 
@@ -47,10 +47,10 @@ Avant de commencer a développer mon application, je vais avoir besoin d'un envi
 
 Maintenant que tout est prêt, je souhaite commencer rapidement mon prototype fonctionnel. Pour ce faire, vous pouvez utiliser le framework de votre choix mais devrez respecter les spécifications suivante :
 
-- Partir d'un d'une image docker me permettant d'embarquer mon applicatif et le rendre portable.
+- Partir d'un d'une image docker (ou docker-compose) me permettant d'embarquer mon applicatif et le rendre portable.
 - Utiliser les patterns php adéquats me permettant de livrer un code SOLID
 
-Cette application étant une POC, je n'ai pas besoin de BDD ni MVC mais uniquement de classes PHP pour fonctionner. 
+Cette application étant une POC, je n'ai pas besoin de BDD ni MVC mais uniquement de classes PHP pour fonctionner. Un système de stockage peux tout à fait être utilisé si vous le souhaitez ;) 
 Afin de pouvoir tester mon application j'ai besoin :
 
 - créer une commande CLI  mer permettant d'instancier un client ou une cliente
